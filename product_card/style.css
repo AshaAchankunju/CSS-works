@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.row{
+    margin-top: 80px;
+    width: 60%;
+    height:650px ;
+    background-color: rgb(247, 221, 182);
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.card{
+    width: 85%;
+    height: 500px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+   
+    
+}
+.col-1{
+    width: 50%;
+    height: 100%;
+    background-color: aqua;
+    float: left;
+    
+    
+}
+.col-2{
+    width:40%;
+    height: 100%;
+    float: left;
+}
+
+.blank{
+    width: 7%;
+    height: 100%;
+    float: left;
+}
+
+.row-1{
+    
+    width: 100%;
+    height: 100px;
+    text-align: left;
+    padding-top: 50px;  
+}
+
+h3{
+    color: grey;
+}
+.row-2{
+    width: 100%;
+    height: 200px;
+}
+p{
+    color: rgb(156, 139, 139);
+    font-size: 20px;
+    
+}
+.price{
+    font-size: xx-large;
+    color: black;
+    float: left;
+}
+.btn-2{
+    float: left;
+    padding-left: 30px;
+    
+}
+button{
+    background-color: aquamarine;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    width: 200px;
+    height: 40px;
+}

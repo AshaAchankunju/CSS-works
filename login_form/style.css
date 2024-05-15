@@ -1,0 +1,52 @@
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form{
+    width: 30%;
+    height: 550px;
+    background-color:white;
+    border: 1px solid black;
+}
+h1{
+    
+    text-align: center;
+}
+.name{
+    font-size: x-large;
+    width: 90%;
+    
+}
+.row{
+    
+    padding-top: 20px;
+}
+.content{
+    padding-left: 40px;
+}
+.row-1{
+    padding-top: 20px;
+}
+.row-2{
+    padding-top: 20px;
+    float: left;
+    font-size: x-large;
+}
+.pwd{
+    padding-left: 85px;
+    color: blue;
+}
+.button{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 90%;
+    font-size: x-large;
+}
+.btn{
+    padding-top:90px;
+}

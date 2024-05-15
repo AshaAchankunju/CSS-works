@@ -1,0 +1,14 @@
+.card{
+    border: 1px solid black;
+    width: 30%;
+    min-height: 500px;
+    float: left;
+}
+.card-image{
+    width: 100%;
+    height: 300px;
+}
+.card h1{
+    text-align: center;
+    text-decoration: underline;
+}
